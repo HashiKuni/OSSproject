@@ -2,6 +2,6 @@
 
 int main(){
   printf("Open Souce SN Project/n");
-  printf("First github tranning/N");
+  printf("First github tranning/n");
   return o;
 }
